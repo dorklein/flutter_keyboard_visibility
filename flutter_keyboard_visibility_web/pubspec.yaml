@@ -1,6 +1,6 @@
 name: flutter_keyboard_visibility_web
 description: An implementation for the web platform of `flutter_keyboard_visibility'
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/MisterJimson/flutter_keyboard_visibility
 repository: https://github.com/MisterJimson/flutter_keyboard_visibility
 
@@ -21,6 +21,7 @@ dependencies:
     sdk: flutter
   flutter:
     sdk: flutter
+  web: ^0.5.1
 
 dev_dependencies:
   pedantic: ^1.11.0

@@ -1,3 +1,6 @@
+## [6.0.1] - July 5, 2024
+* Updated the web implementation to support WASM builds
+
 ## [6.0.0] - December 19, 2023
 * 5.4.3 republished as a new major version. The Android Gradle changes were breaking for some users so 5.4.3 was unpublished. Using this version may require you to update your Android Gradle version.
 
